@@ -40,7 +40,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
-
+![Mhd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mhd&theme=midnight-purple&hide_border=false)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>

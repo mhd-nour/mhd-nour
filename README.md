@@ -37,6 +37,7 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
-![Mhd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mhd&theme=midnight-purple&hide_border=false)
-![Mhd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhd&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+![Nour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhd-nour&theme=midnight-purple&hide_border=false)
+![Nour's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhd-nour&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
+
 <br>
